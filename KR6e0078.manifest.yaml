@@ -1,0 +1,153 @@
+canonical_identifier: bkk:krp/KR6e0078/v1
+canonical_location: https://kanripo.org/bkk/KR6e0078/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華嚴一乘教義分齊章復古記
+  identifiers:
+    alt_id:
+    - X58n0998
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n0998.xml
+    old_id: X58n0998
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0078_000.yaml, hash: 'sha256:540372edb6368e076ff1b03adb1003484fcffbc3ab2b206c62f51d5f423a2bdf'}
+  - {seq: 2, filename: KR6e0078_002.yaml, hash: 'sha256:09a79b4e341dcd33ad1d2168709b908ea91aa9719cf0080ea7f1ad6aff042358'}
+  - {seq: 3, filename: KR6e0078_003.yaml, hash: 'sha256:d900ec0de00c2ada7ec72836457f817e50e5626e7fd7682ded90413a56e92b1c'}
+  - {seq: 4, filename: KR6e0078_004.yaml, hash: 'sha256:e7e91c4eb21140b3ce2151febe1d98953abf458459fec56639d31acc8b3ee064'}
+  - {seq: 5, filename: KR6e0078_005.yaml, hash: 'sha256:8dc2c457942ed5111668699a7c09b6f339034e71a0effe2348271cac91645d17'}
+  - {seq: 6, filename: KR6e0078_006.yaml, hash: 'sha256:ff9738d8f9ce73d2f9fba63c61cc3595ca811b1996d5bf0e08e4aaff03cdda1f'}
+  - {seq: 7, filename: KR6e0078_007.yaml, hash: 'sha256:a47f160428494753008f1fa5bed4cf0729a2e58a185b5f774c230195a5bb50b4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0078_000.markers.yaml, hash: 'sha256:a527e05e9297557e268e1a6839229b9528ae58a43c51b317cca48e3d08e1ed50'}
+  - {seq: 2, role: markers, filename: assets/KR6e0078_002.markers.yaml, hash: 'sha256:6fc454cd3548c3344124ce4401275e8169298d2189f76a90c4c6d56e3deb553d'}
+  - {seq: 3, role: markers, filename: assets/KR6e0078_003.markers.yaml, hash: 'sha256:052f4f7612a058fc8696f73055e694427cf87ba8fd07119fb00d691451f4d51a'}
+  - {seq: 4, role: markers, filename: assets/KR6e0078_004.markers.yaml, hash: 'sha256:7decca0beb6d77c82fc414a828f298e6b5388ad258d55af07145feabbb6183c4'}
+  - {seq: 5, role: markers, filename: assets/KR6e0078_005.markers.yaml, hash: 'sha256:9b5b13276b481e5a861ca4cb7ee44d2f0a7e3acaa867d70f6e2d05cfab4ed0ab'}
+  - {seq: 6, role: markers, filename: assets/KR6e0078_006.markers.yaml, hash: 'sha256:17cd4e7403de1b4f1cfd9229f84ede6a70ab62c5e676667de7d0e1ab8e665604'}
+  - {seq: 7, role: markers, filename: assets/KR6e0078_007.markers.yaml, hash: 'sha256:036e1fe9c836a692038eda187504d9b134466597737b6f01fc713d15fb7cdfeb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6e0078_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 華嚴五教章復古記刊行凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0078_X_000-mulu-2
+    span:
+    - front
+    - 230
+    - 230
+  label: No. 998-A 復古記序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0078_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 15331
+  label: 華嚴一乘教義分齊章復古記卷第一之上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0078_X_1a-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 華嚴一乘教義分齊章復古記
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0078_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 15516
+  label: 華嚴一乘教義分齊章復古記卷第一之下
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0078_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 24832
+  label: 華嚴一乘教義分齊章復古記卷第二之上
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0078_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 18838
+  label: 華嚴一乘教義分齊章復古記卷第二之下
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0078_X_3a-juan-start
+    span:
+    - body
+    - 0
+    - 19644
+  label: 華嚴一乘教義分齊章復古記卷第三之上
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0078_X_3b-juan-start
+    span:
+    - body
+    - 0
+    - 13821
+  label: 華嚴一乘教義分齊章復古記卷第三之下
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0078_X_3b-mulu-1
+    span:
+    - body
+    - 13722
+    - 13722
+  label: 五教章奧書
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0078_X_3b-mulu-2
+    span:
+    - body
+    - 13790
+    - 13790
+  label: 復古記奧書
+  type: mulu
+  level: 1
+hash: sha256:16e8ba43d91e8b428bd4a2577f1e3b871b00e9bd7249c9fcfe23a90d1cb58675
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
